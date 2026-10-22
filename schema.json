@@ -1,0 +1,14 @@
+{
+  "asset_class": "HVAC Field Service Excel Spreadsheet",
+  "build_parameters": {
+    "macro_free": true,
+    "responsive_scale_target": "85%",
+    "canvas_base": "Matte-Black Theme"
+  },
+  "operational_matrices": [
+    "equipment_maintenance_logs",
+    "parts_inventories",
+    "diagnostic_work_orders",
+    "commercial_service_contract_ledgers"
+  ]
+}
